@@ -4,7 +4,7 @@ Name:		libibverbs-driver-ehca
 Version:	1.2.2
 %define	snap	20100526
 %define	gitref	g69e1a88
-Release:	1
+Release:	0.%{snap}.1
 License:	BSD or GPL v2
 Group:		Libraries
 Source0:	https://www.openfabrics.org/downloads/libehca/libehca-%{version}-0.1.%{gitref}.tar.gz
